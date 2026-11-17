@@ -98,6 +98,8 @@ Sau khi chạy xong Chức năng 1, hệ thống sẽ tự động xuất ra cá
 
 Channel 
 
-Free Airdrop Channel: https://t.me/Vietmmo_Aidrop 
-Discord Channel: https://discord.com/invite/uw7dCDbnJu 
+Free Airdrop Channel: https://t.me/Vietmmo_Aidrop
+
+Discord Channel: https://discord.com/invite/uw7dCDbnJu
+
 Purchase Keyline: https://web.telegram.org/k/#@ToolAirDrop_Bot
